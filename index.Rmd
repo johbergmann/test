@@ -6,8 +6,8 @@ title: "My test site"
 
 ## test1
 
-Inspirational quotes FTW!
+test1
 
 ### test2
 
-1000 inspirational quotes before you die
+test2
